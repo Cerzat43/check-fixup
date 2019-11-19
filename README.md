@@ -1,1 +1,1 @@
-First example : simple commit
+Second example : fixup commit
